@@ -95,7 +95,7 @@
         app:icon="@mipmap/microsoft"
         app:iconTint="@null"
         app:iconGravity="textStart"
-        app:iconSize="20dp"
+        app:iconSize="25dp"
         android:paddingTop="10dp"
         android:paddingBottom="10dp"/>
 
